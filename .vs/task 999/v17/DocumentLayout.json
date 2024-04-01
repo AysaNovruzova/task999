@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\task 999\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58DF16F4-38C5-4DC0-94D9-42A9E6EF7716}|task 999\\task 999.csproj|c:\\users\\hp\\desktop\\task 999\\task 999\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DF16F4-38C5-4DC0-94D9-42A9E6EF7716}|task 999\\task 999.csproj|solutionrelative:task 999\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DF16F4-38C5-4DC0-94D9-42A9E6EF7716}|task 999\\task 999.csproj|c:\\users\\hp\\desktop\\task 999\\task 999\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DF16F4-38C5-4DC0-94D9-42A9E6EF7716}|task 999\\task 999.csproj|solutionrelative:task 999\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58DF16F4-38C5-4DC0-94D9-42A9E6EF7716}|task 999\\task 999.csproj|c:\\users\\hp\\desktop\\task 999\\task 999\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58DF16F4-38C5-4DC0-94D9-42A9E6EF7716}|task 999\\task 999.csproj|solutionrelative:task 999\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\task 999\\task 999\\Student.cs",
+              "RelativeDocumentMoniker": "task 999\\Student.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\task 999\\task 999\\Student.cs",
+              "RelativeToolTip": "task 999\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:15:43.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\task 999\\task 999\\Group.cs",
+              "RelativeDocumentMoniker": "task 999\\Group.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\task 999\\task 999\\Group.cs",
+              "RelativeToolTip": "task 999\\Group.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwCEAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:15:57.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\task 999\\task 999\\Program.cs",
+              "RelativeDocumentMoniker": "task 999\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\task 999\\task 999\\Program.cs",
+              "RelativeToolTip": "task 999\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T03:15:10.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
